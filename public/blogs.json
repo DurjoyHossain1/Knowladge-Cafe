@@ -1,50 +1,42 @@
 [
-    {
-        "id": "654321",
-        "cover": "https://example.com/book1-cover.jpg",
-        "title": "Whispers in the Shadows",
-        "author": "Serena Moonlight",
-        "author_image": "https://example.com/author1-image.jpg",
-        "posted_date": "2024-03-12",
-        "reading_theme": "Dark Fantasy",
-        "hashtags": ["fantasy", "mystery", "magic"],
-        "reading_time": 120
-      }
-      ,
-      {
-        "id": "987123",
-        "cover": "https://example.com/book2-cover.jpg",
-        "title": "Chronicles of Nebula Prime",
-        "author": "Xander Stardust",
-        "author_image": "https://example.com/author2-image.jpg",
-        "posted_date": "2024-03-12",
-        "reading_theme": "Space Opera",
-        "hashtags": ["scifi", "adventure", "space"],
-        "reading_time": 180
-      }
-      ,
-      {
-        "id": "456789",
-        "cover": "https://example.com/book3-cover.jpg",
-        "title": "The Enchanted Garden",
-        "author": "Isabella Bloom",
-        "author_image": "https://example.com/author3-image.jpg",
-        "posted_date": "2024-03-12",
-        "reading_theme": "Magical Realism",
-        "hashtags": ["magic", "gardens", "enchanted"],
-        "reading_time": 90
-      }
-      ,
-      {
-        "id": "231987",
-        "cover": "https://example.com/book4-cover.jpg",
-        "title": "Beyond the Horizon",
-        "author": "Adrian Skylark",
-        "author_image": "https://example.com/author4-image.jpg",
-        "posted_date": "2024-03-12",
-        "reading_theme": "Adventure Quest",
-        "hashtags": ["adventure", "exploration", "quest"],
-        "reading_time": 150
-      }
-           
+  {
+      "id": 1,
+      "cover": "https://i.ibb.co/bPQHQ13/Rectangle-1-2x.png",
+      "title": "How to get your first job as a self-taught programmer",
+      "author_img": "https://i.ibb.co/k3dsGZ1/Ellipse-1.png",
+      "author": "Mr. Raju",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 5,
+      "hashtags": [
+          "beginners",
+          "es6"
+      ]
+  },
+  {
+      "id": 2,
+      "cover": "https://i.ibb.co/jw2p78f/Rectangle-1.png",
+      "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+      "author_img": "https://i.ibb.co/GtTBx0C/Ellipse-1-1.png",
+      "author": "Mrs. Setara",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 10,
+      "hashtags": [
+          "javascript",
+          "coding",
+          "dev"
+      ]
+  },
+  {
+      "id": 3,
+      "cover": "https://i.ibb.co/rvGhMr4/Rectangle-1-1.png",
+      "title": "Component lifecycle in React — Class component vs Functional component",
+      "author_img": "https://i.ibb.co/vsVRg7c/Ellipse-1-2.png",
+      "author": "Mina Mostofa",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 12,
+      "hashtags": [
+          "mid_level",
+          "react"
+      ]
+  }
 ]

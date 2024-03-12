@@ -1,0 +1,50 @@
+[
+    {
+        "id": "654321",
+        "cover": "https://example.com/book1-cover.jpg",
+        "title": "Whispers in the Shadows",
+        "author": "Serena Moonlight",
+        "author_image": "https://example.com/author1-image.jpg",
+        "posted_date": "2024-03-12",
+        "reading_theme": "Dark Fantasy",
+        "hashtags": ["fantasy", "mystery", "magic"],
+        "reading_time": 120
+      }
+      ,
+      {
+        "id": "987123",
+        "cover": "https://example.com/book2-cover.jpg",
+        "title": "Chronicles of Nebula Prime",
+        "author": "Xander Stardust",
+        "author_image": "https://example.com/author2-image.jpg",
+        "posted_date": "2024-03-12",
+        "reading_theme": "Space Opera",
+        "hashtags": ["scifi", "adventure", "space"],
+        "reading_time": 180
+      }
+      ,
+      {
+        "id": "456789",
+        "cover": "https://example.com/book3-cover.jpg",
+        "title": "The Enchanted Garden",
+        "author": "Isabella Bloom",
+        "author_image": "https://example.com/author3-image.jpg",
+        "posted_date": "2024-03-12",
+        "reading_theme": "Magical Realism",
+        "hashtags": ["magic", "gardens", "enchanted"],
+        "reading_time": 90
+      }
+      ,
+      {
+        "id": "231987",
+        "cover": "https://example.com/book4-cover.jpg",
+        "title": "Beyond the Horizon",
+        "author": "Adrian Skylark",
+        "author_image": "https://example.com/author4-image.jpg",
+        "posted_date": "2024-03-12",
+        "reading_theme": "Adventure Quest",
+        "hashtags": ["adventure", "exploration", "quest"],
+        "reading_time": 150
+      }
+           
+]
